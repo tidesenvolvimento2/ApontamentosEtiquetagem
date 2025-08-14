@@ -11,7 +11,7 @@
       "RelativeMoniker": "D:0:0:{1A76FC17-574A-4819-8D5A-27AC136B52CC}|ApontamentosEtiquetagem\\ApontamentosEtiquetagem.csproj|solutionrelative:apontamentosetiquetagem\\services\\escalaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1A76FC17-574A-4819-8D5A-27AC136B52CC}|ApontamentosEtiquetagem\\ApontamentosEtiquetagem.csproj|c:\\dev\\apontamentosetiquetagem\\apontamentosetiquetagem\\formularios\\frmescala.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{1A76FC17-574A-4819-8D5A-27AC136B52CC}|ApontamentosEtiquetagem\\ApontamentosEtiquetagem.csproj|C:\\dev\\ApontamentosEtiquetagem\\apontamentosetiquetagem\\formularios\\frmescala.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{1A76FC17-574A-4819-8D5A-27AC136B52CC}|ApontamentosEtiquetagem\\ApontamentosEtiquetagem.csproj|solutionrelative:apontamentosetiquetagem\\formularios\\frmescala.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
@@ -66,20 +66,19 @@
               "RelativeToolTip": "ApontamentosEtiquetagem\\Services\\EscalaService.cs",
               "ViewState": "AgIAAKgAAAAAAAAAAAAowIcAAABqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-14T14:11:24.384Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-14T14:11:24.384Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "FrmEscala.cs [Projeto]",
+              "Title": "FrmEscala.cs [Design]",
               "DocumentMoniker": "C:\\dev\\ApontamentosEtiquetagem\\ApontamentosEtiquetagem\\Formularios\\FrmEscala.cs",
               "RelativeDocumentMoniker": "ApontamentosEtiquetagem\\Formularios\\FrmEscala.cs",
-              "ToolTip": "C:\\dev\\ApontamentosEtiquetagem\\ApontamentosEtiquetagem\\Formularios\\FrmEscala.cs [Projeto]",
-              "RelativeToolTip": "ApontamentosEtiquetagem\\Formularios\\FrmEscala.cs [Projeto]",
+              "ToolTip": "C:\\dev\\ApontamentosEtiquetagem\\ApontamentosEtiquetagem\\Formularios\\FrmEscala.cs [Design]",
+              "RelativeToolTip": "ApontamentosEtiquetagem\\Formularios\\FrmEscala.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-14T14:12:45.842Z",
-              "EditorCaption": " [Projeto]"
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
@@ -103,8 +102,7 @@
               "RelativeToolTip": "ApontamentosEtiquetagem\\Formularios\\FrmPrincipal.cs",
               "ViewState": "AgIAAN0AAAAAAAAAAAD4v94AAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-14T12:21:57.149Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-14T12:21:57.149Z"
             },
             {
               "$type": "Document",
@@ -114,7 +112,7 @@
               "RelativeDocumentMoniker": "ApontamentosEtiquetagem\\Formularios\\FrmEscala.cs",
               "ToolTip": "C:\\dev\\ApontamentosEtiquetagem\\ApontamentosEtiquetagem\\Formularios\\FrmEscala.cs",
               "RelativeToolTip": "ApontamentosEtiquetagem\\Formularios\\FrmEscala.cs",
-              "ViewState": "AgIAAMgAAAAAAAAAAAAQwN0AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAMMAAAAAAAAAAAAAAN0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-14T12:16:44.784Z",
               "EditorCaption": ""
