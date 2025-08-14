@@ -3,16 +3,24 @@
   "WorkspaceRootPath": "C:\\dev\\ApontamentosEtiquetagem\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{1A76FC17-574A-4819-8D5A-27AC136B52CC}|ApontamentosEtiquetagem\\ApontamentosEtiquetagem.csproj|c:\\dev\\apontamentosetiquetagem\\apontamentosetiquetagem\\formularios\\frmescala.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A76FC17-574A-4819-8D5A-27AC136B52CC}|ApontamentosEtiquetagem\\ApontamentosEtiquetagem.csproj|solutionrelative:apontamentosetiquetagem\\formularios\\frmescala.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A76FC17-574A-4819-8D5A-27AC136B52CC}|ApontamentosEtiquetagem\\ApontamentosEtiquetagem.csproj|c:\\dev\\apontamentosetiquetagem\\apontamentosetiquetagem\\services\\escalaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A76FC17-574A-4819-8D5A-27AC136B52CC}|ApontamentosEtiquetagem\\ApontamentosEtiquetagem.csproj|solutionrelative:apontamentosetiquetagem\\services\\escalaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A76FC17-574A-4819-8D5A-27AC136B52CC}|ApontamentosEtiquetagem\\ApontamentosEtiquetagem.csproj|c:\\dev\\apontamentosetiquetagem\\apontamentosetiquetagem\\formularios\\frmescala.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1A76FC17-574A-4819-8D5A-27AC136B52CC}|ApontamentosEtiquetagem\\ApontamentosEtiquetagem.csproj|solutionrelative:apontamentosetiquetagem\\formularios\\frmescala.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{1A76FC17-574A-4819-8D5A-27AC136B52CC}|ApontamentosEtiquetagem\\ApontamentosEtiquetagem.csproj|c:\\dev\\apontamentosetiquetagem\\apontamentosetiquetagem\\formularios\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1A76FC17-574A-4819-8D5A-27AC136B52CC}|ApontamentosEtiquetagem\\ApontamentosEtiquetagem.csproj|solutionrelative:apontamentosetiquetagem\\formularios\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1A76FC17-574A-4819-8D5A-27AC136B52CC}|ApontamentosEtiquetagem\\ApontamentosEtiquetagem.csproj|c:\\dev\\apontamentosetiquetagem\\apontamentosetiquetagem\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
       "RelativeMoniker": "D:0:0:{1A76FC17-574A-4819-8D5A-27AC136B52CC}|ApontamentosEtiquetagem\\ApontamentosEtiquetagem.csproj|solutionrelative:apontamentosetiquetagem\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1A76FC17-574A-4819-8D5A-27AC136B52CC}|ApontamentosEtiquetagem\\ApontamentosEtiquetagem.csproj|c:\\dev\\apontamentosetiquetagem\\apontamentosetiquetagem\\formularios\\frmescala.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1A76FC17-574A-4819-8D5A-27AC136B52CC}|ApontamentosEtiquetagem\\ApontamentosEtiquetagem.csproj|solutionrelative:apontamentosetiquetagem\\formularios\\frmescala.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 262,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 10,
           "Children": [
             {
               "$type": "Bookmark",
@@ -51,6 +59,31 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "EscalaService.cs",
+              "DocumentMoniker": "C:\\dev\\ApontamentosEtiquetagem\\ApontamentosEtiquetagem\\Services\\EscalaService.cs",
+              "RelativeDocumentMoniker": "ApontamentosEtiquetagem\\Services\\EscalaService.cs",
+              "ToolTip": "C:\\dev\\ApontamentosEtiquetagem\\ApontamentosEtiquetagem\\Services\\EscalaService.cs",
+              "RelativeToolTip": "ApontamentosEtiquetagem\\Services\\EscalaService.cs",
+              "ViewState": "AgIAAKgAAAAAAAAAAAAowIcAAABqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T14:11:24.384Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FrmEscala.cs [Projeto]",
+              "DocumentMoniker": "C:\\dev\\ApontamentosEtiquetagem\\ApontamentosEtiquetagem\\Formularios\\FrmEscala.cs",
+              "RelativeDocumentMoniker": "ApontamentosEtiquetagem\\Formularios\\FrmEscala.cs",
+              "ToolTip": "C:\\dev\\ApontamentosEtiquetagem\\ApontamentosEtiquetagem\\Formularios\\FrmEscala.cs [Projeto]",
+              "RelativeToolTip": "ApontamentosEtiquetagem\\Formularios\\FrmEscala.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T14:12:45.842Z",
+              "EditorCaption": " [Projeto]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": ".gitignore",
               "DocumentMoniker": "C:\\dev\\ApontamentosEtiquetagem\\ApontamentosEtiquetagem\\.gitignore",
               "RelativeDocumentMoniker": "ApontamentosEtiquetagem\\.gitignore",
@@ -58,12 +91,11 @@
               "RelativeToolTip": "ApontamentosEtiquetagem\\.gitignore",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAHAAAAAAAAAA==",
               "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAF8SURBVDhPjVNLTgJBEG1lwpoFB3GNK9fieA48hD8iwT/ihwgSDAIHgAGXXsEV18CNzL/LquqZdsYM6kteXqcy3fWqpmpNRBgOhyABBEgpAFVKPIMUcYzUyOU\u002BXM/b2qtU3vkSfRjjZTCAMAw1A2LwzdFoBPP5HNqdzuL27n4juibWI\u002BUshBA1DIkhEx9iEorFotgslQqGYbxxAGFEqt1MxmPWJLbLZdZ\u002Bv89q5PMFPiTR6z2zdaxR0fXA0XTBcVywkb4fwHXjRteecIDNQ7UmExVYAdPcxYaqclN46na5WenMKjtlVnTYwcXlVYaDqImW9beD5N/TeGy32QHXm6hZ03ZgiSQHp2fnWQ4oBmJqWSqwAqZpZjt4aLXAD4J0VqyZsmoubfB8H2r1eoaD6NXZ9HcHO\u002BSA3f4AjifXl8rItOETM8ckB9WTWpYD9RdeZ1PWVWAHWXPQaDb59f/w8LiqHeh1pvGkCaP6qB8yXusoxmuNZ7XmII4O9vGuEF86osuDYRkpYQAAAABJRU5ErkJggg==",
-              "WhenOpened": "2025-08-14T12:53:47.183Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-14T12:53:47.183Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "FrmPrincipal.cs",
               "DocumentMoniker": "C:\\dev\\ApontamentosEtiquetagem\\ApontamentosEtiquetagem\\Formularios\\FrmPrincipal.cs",
               "RelativeDocumentMoniker": "ApontamentosEtiquetagem\\Formularios\\FrmPrincipal.cs",
@@ -76,13 +108,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "FrmEscala.cs",
               "DocumentMoniker": "C:\\dev\\ApontamentosEtiquetagem\\ApontamentosEtiquetagem\\Formularios\\FrmEscala.cs",
               "RelativeDocumentMoniker": "ApontamentosEtiquetagem\\Formularios\\FrmEscala.cs",
               "ToolTip": "C:\\dev\\ApontamentosEtiquetagem\\ApontamentosEtiquetagem\\Formularios\\FrmEscala.cs",
               "RelativeToolTip": "ApontamentosEtiquetagem\\Formularios\\FrmEscala.cs",
-              "ViewState": "AgIAAHwAAAAAAAAAAADwvxgBAAAEAAAAAAAAAA==",
+              "ViewState": "AgIAAMgAAAAAAAAAAAAQwN0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-14T12:16:44.784Z",
               "EditorCaption": ""

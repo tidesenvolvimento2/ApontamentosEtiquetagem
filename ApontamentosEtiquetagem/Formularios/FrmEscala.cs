@@ -146,7 +146,7 @@ public partial class FrmEscala : Form
     {
         try
         {
-            var lista = await _escalaService.CarregarEscalaStatus(idLinha);
+            var lista = await _escalaService.CarregarEscalaStatus(idLinha, 3);
             dgvStatus.DataSource = lista;
         }
         catch(Exception ex)

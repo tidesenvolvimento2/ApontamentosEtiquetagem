@@ -133,11 +133,11 @@ namespace ApontamentosEtiquetagem.Services
             }
         }
 
-        public async Task<List<ColaboradoresStatusResponse>> CarregarEscalaStatus(int idLinha)
+        public async Task<List<ColaboradoresStatusResponse>> CarregarEscalaStatus(int idLinha, int origem)
         {
             try
             {
-                string rota = $"Escala/Status/{idLinha}";
+                string rota = $"Escala/Status/{idLinha}/{origem}";
                 HttpResponseMessage response = await _httpClient.GetAsync(rota);
 
                 if (response.IsSuccessStatusCode)
